@@ -10,7 +10,7 @@
 }
 
 body {
-  width: 375px;
+  width: 100%;
 }
 
 .flex {
@@ -34,7 +34,7 @@ i {
 
 .header {
   height: 72px;
-  background-color: #c4b0a2;
+  background-color: #181716;
   padding: 15px;
   justify-content: space-between;
 }
@@ -54,9 +54,9 @@ nav {
 }
 
 .home {
-  width: 375px;
+  width: 100%;
   background: url(assest/background/illustration-header-mobile.png) no-repeat;
-  background-color: #c4b0a2;
+  background-color: #080605;
   height: 100vh;
   background-position: right bottom;
   flex-direction: column;
@@ -109,10 +109,22 @@ nav {
 .socialmedia > ul {
   gap: 12px;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .socialmedia {
-  width: 101%;
+  width: 100%;
   justify-content: flex-start;
   padding: 0 15px;
+}
+
+.group {
+  position: absolute;
+  right: 0;
+  bottom: -45px;
+}
+
+.icons:hover {
+  background-color: #b7a1cd;
 }
