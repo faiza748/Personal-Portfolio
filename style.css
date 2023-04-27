@@ -12,6 +12,7 @@
 body {
   width: 375px;
 }
+
 .flex {
   display: flex;
   align-items: center;
