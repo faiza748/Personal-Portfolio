@@ -57,14 +57,14 @@ nav {
   width: 100%;
   background: url(assest/background/illustration-header-mobile.png) no-repeat;
   background-color: #080605;
-  height: 100vh;
+  height: 90vh;
   background-position: right bottom;
   flex-direction: column;
 }
 
 .cont-parent {
   flex-direction: column;
-  margin-bottom: 80px;
+  margin-bottom: 130px;
 }
 
 .content {
@@ -107,7 +107,7 @@ nav {
 }
 
 .socialmedia > ul {
-  gap: 12px;
+  gap: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
