@@ -1,4 +1,4 @@
-# Setup-and-mobile-first
+# Finish-mobile-version
 
 <!-- TABLE OF CONTENTS -->
 
@@ -25,10 +25,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖Setup-and-mobile-first<a name="about-project"></a>
+# 📖Finish-mobile-versiont<a name="about-project"></a>
 
 
-**Setup-and-mobile-first** is shows my Techinical skills.
+**  Finish-mobile-version** is shows my Techinical skills.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -96,13 +96,13 @@ In order to run this project you need:
 
 ### Install
 
-- Type cd Portfolio-setup-and-mobile-first
+- Type cd Portfolio-finish-mobile-version
 - open index.html file in the browser
 
 ### Usage
 
 - To run the project, execute the following command:
-  - Type cd Portfolio-setup-and-mobile-first
+  - Type cd Portfolio-finish-mobile-version
   - open index.html file in the browser
 
 ### Run tests
