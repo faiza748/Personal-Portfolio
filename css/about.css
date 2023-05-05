@@ -11,7 +11,7 @@
 }
 
 .about-heading {
-  font-family: 'Crete Round', serif;
+  font-family: "Crete Round", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 50px;
@@ -24,7 +24,7 @@
 }
 
 .about-para {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -34,22 +34,16 @@
 }
 
 .about-btn {
-  flex-direction: row;
+  display: flex;
   padding: 12px;
-  gap: 10px;
-  width: 156px;
-  height: 48px;
   background: #ff6b00;
-  font-family: 'Inter', sans-serif;
-  font-style: normal;
+  font-family: "Inter", sans-serif;
   font-weight: 700;
   font-size: 16px;
   line-height: 24px;
-  display: flex;
-  align-items: center;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #fff;
+  color: #ffffff;
   margin-left: 24px;
   border: transparent;
 }
